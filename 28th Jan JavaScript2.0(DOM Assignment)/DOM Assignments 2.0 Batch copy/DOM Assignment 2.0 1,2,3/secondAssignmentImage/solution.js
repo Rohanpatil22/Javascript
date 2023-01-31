@@ -6,7 +6,7 @@ let arr_h3=[...sel_h3];
 console.log(arr_h3);
 for(let x in arr_h3){
     console.log(x);
-arr_h3[x].style.backgroundColor="rgb(148 150 216";
+arr_h3[x].style.backgroundColor="rgb(148 150 216)";
 
 }
 
