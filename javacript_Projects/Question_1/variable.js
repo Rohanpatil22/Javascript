@@ -1,0 +1,10 @@
+let data_1="Rohan";
+console.log(data_1,typeof(data_1));
+let data_2=true;
+console.log(data_2,typeof(data_2));
+let data_3;
+console.log(data_3,typeof(data_3));
+let data_4=null;
+console.log(data_4,typeof(data_4));
+let data_5=22;
+console.log(data_5,typeof(data_5));
